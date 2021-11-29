@@ -5,4 +5,3 @@
 3- git reset .
 4- git commit -m "PRIMER COMMIT"
 5- git checkout -- .
-SASsdsdads
